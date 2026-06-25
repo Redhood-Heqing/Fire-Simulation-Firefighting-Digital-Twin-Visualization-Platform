@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+*.tsbuildinfo
+bin/
+obj/
+*-verify.png
+apps/server/mock-data/state.json
+apps/web/public/models/*.glb
+apps/web/public/models/*.gltf
+apps/web/public/models/*.fbx
+!apps/web/public/models/.gitkeep

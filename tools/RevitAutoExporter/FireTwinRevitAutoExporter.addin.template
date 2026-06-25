@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Fire Twin Revit Auto Exporter</Name>
+    <Assembly>__ASSEMBLY_PATH__</Assembly>
+    <AddInId>62C030F2-4134-4DD1-97DB-8F7FE18C6D20</AddInId>
+    <FullClassName>FireTwinRevitAutoExporter.AutoExporterApp</FullClassName>
+    <VendorId>FTWN</VendorId>
+    <VendorDescription>Local auto exporter for Smart Building Fire Twin demo.</VendorDescription>
+  </AddIn>
+</RevitAddIns>
